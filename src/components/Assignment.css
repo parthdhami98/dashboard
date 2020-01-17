@@ -1,0 +1,29 @@
+.MainComponent {
+  display: flex;
+  justify-content: center;
+  padding-top: 70px;
+}
+
+.Login-form {
+  max-width: 500px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.4);
+}
+
+.login-btn {
+  width: 100%;
+}
+
+.detail {
+  height: 100vh;
+}
+.list {
+  width: 70%;
+  padding: 20px;
+  height: 100vh;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
