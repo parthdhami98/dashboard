@@ -17,9 +17,9 @@
   height: 100vh;
 }
 .list {
-  width: 70%;
+  width: auto;
   padding: 20px;
-  height: 100vh;
+  height: auto;
 }
 
 .logo {
